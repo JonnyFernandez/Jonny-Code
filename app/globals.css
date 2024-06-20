@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body{
+  color: #fff;
+  background: #1f1934;
+  /* aca le cambie el coloer al fondo de pantalla */
+}
+main{
+  background: #393a47;
+  height: 100vh;
+  height: 100dvh;
+}
+
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
