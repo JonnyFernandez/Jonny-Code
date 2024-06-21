@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Dependencias
+
+para maquetar el componente "trasition-component" [Framer motion](https://www.framer.com/motion/introduction/)
+Apara dar efecto al texto que se esta esctibiendo[react-type-animation](https://www.npmjs.com/package/react-type-animation?activeTab=readme)
+
+\*Notas
+-en introduction.tsx esta el home, la pagina principal, terminar de configurar links, cambiar imagen de abatar
