@@ -40,5 +40,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 para maquetar el componente "trasition-component" [Framer motion](https://www.framer.com/motion/introduction/)
 Apara dar efecto al texto que se esta esctibiendo[react-type-animation](https://www.npmjs.com/package/react-type-animation?activeTab=readme)
 
-\*Notas
--en introduction.tsx esta el home, la pagina principal, terminar de configurar links, cambiar imagen de abatar
+_Notas_
+
+- en introduction.tsx esta el home, la pagina principal, terminar de configurar links, cambiar imagen de abatar
+- el componente container.tsx es totalmente reutilizable y comodo
+- en el componente abatar, esta configurado la imagen del about-me
