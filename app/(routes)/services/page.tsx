@@ -26,7 +26,8 @@ const ServicesPage = () => {
             Contacta conmigo
           </button>
         </div>
-        <div>
+        {/* <div className="bg-red-500 mb-14"> */}
+        <div className="mb-14 md:mb-0">
           <SliderServices />
         </div>
       </div>
