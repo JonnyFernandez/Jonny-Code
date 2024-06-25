@@ -23,11 +23,11 @@ const Introduction = () => {
                             speed={50}
                             repeat={Infinity}
                             className="font-bold text-secondary"
-                        />
+                        />  
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        Como desarrollador frontend y creador de contenido, me dedico a combinar diseño y funcionalidad para crear experiencias digitales impactantes y accesibles.
+                        Como Backend Developer y creador de contenido, me dedico a crear servidores sostenibles, seguros y escalables.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">

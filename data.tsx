@@ -80,35 +80,35 @@ export const itemsNavbar = [
 export const dataAboutPage = [
   {
     id: 1,
-    title: "Full stack developer",
-    subtitle: "Marelys",
+    title: "Python",
+    subtitle: "Coderhouse",
     description:
       "La creación de un e-commerce destinado a una juguetería fue un trabajo emocionante que me llevó a superarme en cada instancia del proyecto.",
-    date: "May 2024 ",
-  },
+    date: "Jun 2024 ",
+  }, 
   {
     id: 2,
-    title: "Full stack developer",
-    subtitle: "Cost Price",
+    title: "Full Stack Developer",
+    subtitle: "Soy Henry",
     description:
       "La aplicación para el control de stock en el ámbito comercial permite gestionar inventarios de forma eficiente, rastreando entradas y salidas de productos, y generando alertas automáticas para niveles críticos. Incluye informes detallados, integración con sistemas de ventas y compras, y auditorías en tiempo real, todo con una interfaz fácil de usar que mejora la eficiencia operativa.",
-    date: "Jan 2024",
+    date: "Jan 2023",
   },
   {
     id: 3,
-    title: "Backed Developer",
-    subtitle: "Api E-commerce",
+    title: "Desarrollo Web",
+    subtitle: "Elearning-total",
     description:
       "Creación de una API destinada al comercio electrónico. Este proyecto fue muy importante y divertido porque puso a prueba todo el conocimiento que ya tenía, además del que tuve que incorporar para lograr un producto final óptimo y digno de recomendar.",
-    date: "Ago 2023",
+    date: "Ago 2019",
   },
   {
     id: 4,
-    title: "Backed Developer",
-    subtitle: "Assist One.",
+    title: "Ingles (B1)",
+    subtitle: "Instituto Anglo Frances",
     description:
       "En este proyecto trabajamos en equipo para satisfacer las demandas del cliente, quien necesitaba un sistema centralizado de compras para tres tipos de usuarios. El primer usuario representa la sucursal, que genera pedidos de insumos. El segundo usuario es la casa central, que acepta o rechaza las órdenes de compra. El tercer usuario son los proveedores, quienes aceptan o rechazan las órdenes de compra.",
-    date: "Ago 2022",
+    date: "Ago 2017",
   },
 ];
 
