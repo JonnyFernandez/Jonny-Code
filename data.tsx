@@ -83,31 +83,39 @@ export const dataAboutPage = [
     title: "Python",
     subtitle: "Coderhouse",
     description:
-      "La creación de un e-commerce destinado a una juguetería fue un trabajo emocionante que me llevó a superarme en cada instancia del proyecto.",
+      "Adquirí los conocimientos necesarios sobre Class-Based Views, login, registro de cuentas, CRUD y ModelForms para desarrollar aplicaciones web estilo blog utilizando Python con el framework Django.",
     date: "Jun 2024 ",
-  }, 
+  },
   {
     id: 2,
     title: "Full Stack Developer",
     subtitle: "Soy Henry",
     description:
-      "La aplicación para el control de stock en el ámbito comercial permite gestionar inventarios de forma eficiente, rastreando entradas y salidas de productos, y generando alertas automáticas para niveles críticos. Incluye informes detallados, integración con sistemas de ventas y compras, y auditorías en tiempo real, todo con una interfaz fácil de usar que mejora la eficiencia operativa.",
+      "Bootcamp de Soy Henry enfocado en el desarrollo full stack, perfeccionando el manejo de tecnologías como Node.js, PostgreSQL, SQL, Sequelize y JavaScript para el backend, y React, Redux, JavaScript, HTML y CSS para el frontend. También se adquirieron habilidades en el uso de Git y GitHub para el control de versiones y la colaboración en proyectos.",
     date: "Jan 2023",
   },
   {
     id: 3,
     title: "Desarrollo Web",
-    subtitle: "Elearning-total",
+    subtitle: "Elearning-Total",
     description:
-      "Creación de una API destinada al comercio electrónico. Este proyecto fue muy importante y divertido porque puso a prueba todo el conocimiento que ya tenía, además del que tuve que incorporar para lograr un producto final óptimo y digno de recomendar.",
+      "Desarrollo web con las tecnologías básicas para la creación de aplicaciones: HTML, CSS y JavaScript.",
     date: "Ago 2019",
   },
   {
     id: 4,
-    title: "Ingles (B1)",
+    title: "Estudiante de Ingeniería en Sistemas",
+    subtitle: "UTN",
+    description:
+      "Estudiante de segundo año de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (La Plata).",
+    date: "Ago 2019",
+  },
+  {
+    id: 5,
+    title: "Estudio de lenguas extranjeras: Inglés (B1)",
     subtitle: "Instituto Anglo Frances",
     description:
-      "En este proyecto trabajamos en equipo para satisfacer las demandas del cliente, quien necesitaba un sistema centralizado de compras para tres tipos de usuarios. El primer usuario representa la sucursal, que genera pedidos de insumos. El segundo usuario es la casa central, que acepta o rechaza las órdenes de compra. El tercer usuario son los proveedores, quienes aceptan o rechazan las órdenes de compra.",
+      "Completé un curso de inglés alcanzando el nivel B1 según el MCER, permitiéndome comunicarme eficazmente en situaciones cotidianas y manejar textos y conversaciones de complejidad moderada.",
     date: "Ago 2017",
   },
 ];
