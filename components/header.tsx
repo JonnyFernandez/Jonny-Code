@@ -1,12 +1,14 @@
-import Link from "next/link";
-import MotionTransition from "./transition-component";
+"use client";
+
 import { socialNetworks } from "@/data";
+import Link from "next/link";
+import { MotionTransition } from "./transition-component";
 
 const Header = () => {
   return (
     <MotionTransition
       position="bottom"
-      className="absolute z-40 inline-block w-full top-5 md:top-10 px:20"
+      className="absolute z-40 inline-block w-full top-5 md:top-10"
     >
       <header>
         <div className="container justify-between max-w-6xl mx-auto md:flex">

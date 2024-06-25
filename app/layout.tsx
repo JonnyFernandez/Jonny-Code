@@ -1,14 +1,19 @@
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
+
 import "./globals.css";
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/scrollbar";
+
 import Navbar from "@/components/navbar";
 import Header from "@/components/header";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jonny Fernandez",
-  description: "Portfolio made by Jonny Fernandez",
+  title: "Jonny fernandez",
+  description: "Full stack developer",
 };
 
 export default function RootLayout({
@@ -20,9 +25,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={urbanist.className}>
         <Navbar />
-        <Header/>
+        <Header />
         {children}
-        </body>
+      </body>
     </html>
   );
 }
