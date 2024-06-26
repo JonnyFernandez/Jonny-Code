@@ -33,7 +33,7 @@ export const socialNetworks = [
         />
       </svg>
     ),
-    src: "#!",
+    src: "https://wa.me/+5492215047727",
   },
   {
     // linkedIn
