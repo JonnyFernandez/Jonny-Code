@@ -14,16 +14,18 @@ const Introduction = () => {
         />
         <div className="flex flex-col justify-center max-w-md">
           <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">
-            Si puedes pensarlo, <br />
+            Backend Developer, <br />
             <TypeAnimation
               sequence={[
-                "puedes programarlo",
+                "Desarrolla Servidores.",
                 1000,
-                "puedes optimizarlo",
+                "Lógica de Aplicación.",
                 1000,
-                "puedes implementarlo",
+                "Crea y Optimiza APIs.",
                 1000,
-                "puedes desarrollarlo",
+                "Bases de Datos.",
+                1000,
+                "Seguridad del Sistema.",
                 1000,
               ]}
               wrapper="span"
