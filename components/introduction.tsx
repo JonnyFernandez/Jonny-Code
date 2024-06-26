@@ -6,7 +6,7 @@ const Introduction = () => {
     <div className="z-20 w-full bg-darkBg/60">
       <div className="z-20 grid items-center h-full p-6 py-20 md:py-0 md:grid-cols-2">
         <Image
-          src="/home-4.png"
+          src="/avatar-13-3d.png"
           priority
           width="800"
           height="800"
@@ -34,14 +34,13 @@ const Introduction = () => {
           </h1>
 
           <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-            Como Backend Developer, mi pasión es diseñar servidores robustos y
-            escalables, garantizando seguridad y sostenibilidad en cada
-            proyecto.
+            Como Backend Developer, me apasiona diseñar servidores robustos,
+            seguros y escalables.
           </p>
 
           <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
             <a
-              href="/projects"
+              href="/portfolio"
               className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50"
             >
               Ver proyectos
@@ -50,7 +49,7 @@ const Introduction = () => {
               href="/contact"
               className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary"
             >
-              Contacta conmigo
+              Descargar CV
             </a>
           </div>
         </div>
