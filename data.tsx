@@ -53,7 +53,7 @@ export const socialNetworks = [
         />
       </svg>
     ),
-    src: "#!",
+    src: "https://www.linkedin.com/in/jonny-fernandez-65a959277/",
   },
   {
     // GitHub
@@ -74,7 +74,7 @@ export const socialNetworks = [
         </g>
       </svg>
     ),
-    src: "#!",
+    src: "https://github.com/JonnyFernandez",
   },
   {
     // gmail
@@ -98,7 +98,7 @@ export const socialNetworks = [
         />
       </svg>
     ),
-    src: "#!",
+    src: "mailto:arcancode@gmail.com",
   },
   {
     // twitter
