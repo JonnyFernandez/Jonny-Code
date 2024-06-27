@@ -184,7 +184,7 @@ export const dataAboutPage = [
     subtitle: "UTN",
     description:
       "Estudiante de segundo año de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (La Plata).",
-    date: "Ago 2019",
+    date: "Mar 2019",
   },
   {
     id: 5,
@@ -192,7 +192,7 @@ export const dataAboutPage = [
     subtitle: "Instituto Anglo Frances",
     description:
       "Completé un curso de inglés alcanzando el nivel B1 según el MCER, permitiéndome comunicarme eficazmente en situaciones cotidianas y manejar textos y conversaciones de complejidad moderada.",
-    date: "Ago 2017",
+    date: "Mar 2017",
   },
 ];
 

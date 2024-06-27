@@ -48,7 +48,7 @@ const Introduction = () => {
               Ver proyectos
             </a>
             <a
-              href="/contact"
+              href="https://drive.google.com/file/d/1cieNptbaNM566zSIBkXezVuG5m5pF5tu/view?usp=sharing"
               className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary"
             >
               Descargar CV

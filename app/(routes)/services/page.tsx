@@ -23,10 +23,14 @@ const ServicesPage = () => {
             servidores seguros y robustos, comprometiéndome a ofrecer soluciones
             escalables y de alto rendimiento.
           </p>
-          <Link href={'#!'} className="px-3 py-2 rounded-lg bg-secondary w-fit rounded-xl hover:bg-secondary/65 fixed top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 md:static md:block mx-auto block">
-          Descargar CV
+          <Link
+            href={
+              "https://drive.google.com/file/d/1cieNptbaNM566zSIBkXezVuG5m5pF5tu/view?usp=sharing"
+            }
+            className="px-3 py-2 rounded-lg bg-secondary w-fit rounded-xl hover:bg-secondary/65 fixed top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 md:static md:block mx-auto block"
+          >
+            Descargar CV
           </Link>
-        
         </div>
         {/* <div className="bg-red-500 mb-14"> */}
         <div className="mb-14 md:mb-0">
