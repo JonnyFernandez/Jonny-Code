@@ -116,7 +116,7 @@ export const socialNetworks = [
         />
       </svg>
     ),
-    src: "#!",
+    src: "https://x.com/Fernandezcode",
   },
 ];
 
