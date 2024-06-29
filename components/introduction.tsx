@@ -8,8 +8,8 @@ const Introduction = () => {
         <Image
           src="/avatar-13-3d.png"
           priority
-          width="800"
-          height="800"
+          width="600"
+          height="600"
           alt="Avatar"
         />
         <div className="flex flex-col justify-center max-w-md">
