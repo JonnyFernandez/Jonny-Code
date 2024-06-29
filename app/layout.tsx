@@ -25,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Backend Developer" />
         <meta property="og:title" content="Jonny Fernandez" />
         <meta property="og:description" content="Backend Developer" />
@@ -33,7 +34,8 @@ export default function RootLayout({
           property="og:url"
           content="https://jonny-fernandez.netlify.app/"
         />
-        <meta name="twitter:card" content="/jonny.jpeg" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Jonny Fernandez" />
         <meta name="twitter:description" content="Backend Developer" />
         <meta name="twitter:image" content="/jonny.jpeg" />
