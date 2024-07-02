@@ -21,12 +21,12 @@ const PortfolioBox = (props: PortfolioBoxProps) => {
       <Image
         src={image}
         alt="Image"
-        width={200}
-        height={200}
+        width={400}
+        height={400}
         className="w-full md:w-[200px] rounded-2xl h-auto"
       />
 
-      <div className="flex gap-5 mt-5">
+      <div className="flex gap-5 mt-5 justify-center">
         <Link
           href={urlGithub}
           target="_blank"
