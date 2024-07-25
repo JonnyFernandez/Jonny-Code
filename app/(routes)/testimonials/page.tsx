@@ -43,10 +43,13 @@ const TestimonialsPage = () => {
               </h2>
 
               <h3 className="text-[16px] font-[400] m-0 opacity-75">
-                Backend Developer
+                Full Stack Developer
               </h3>
               <p className="text-[16px] font-[400] mb-4 opacity-50">
-                Detrás de cada gran aplicación, hay un backend impecable.
+                Creo en la importancia de crear software que sea funcional,
+                intuitivo y agradable de usar. Valoro el código limpio y
+                mantenible, y siempre busco nuevas tecnologías y mejores
+                prácticas para mejorar mis proyectos.
               </p>
               <span
                 className="text-[#f8f8f8] font-inherit px-6 py-4 text-[19px] rounded-[40px] cursor-pointer block mb-4"

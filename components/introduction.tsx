@@ -14,9 +14,13 @@ const Introduction = () => {
         />
         <div className="flex flex-col justify-center max-w-md">
           <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">
-            Backend Developer, <br />
+            Full Stack Developer, <br />
             <TypeAnimation
               sequence={[
+                "Diseño Web.",
+                1000,
+                "Diseño responsivo.",
+                1000,
                 "Desarrolla Servidores.",
                 1000,
                 "Lógica de Aplicación.",
@@ -36,8 +40,9 @@ const Introduction = () => {
           </h1>
 
           <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-            Como Backend Developer, me apasiona diseñar servidores robustos,
-            seguros y escalables.
+            Como Full Stack Developer, me apasiona crear soluciones tecnológicas
+            completas, especializándome en aplicaciones web robustas, escalables
+            y seguras con las tecnologías más avanzadas.
           </p>
 
           <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
