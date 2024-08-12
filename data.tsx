@@ -178,14 +178,14 @@ export const dataAboutPage = [
       "Desarrollo web con las tecnologías básicas para la creación de aplicaciones: HTML, CSS y JavaScript.",
     date: "Ago 2019",
   },
-  {
-    id: 4,
-    title: "Estudiante de Ingeniería en Sistemas",
-    subtitle: "UTN",
-    description:
-      "Estudiante de segundo año de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (La Plata).",
-    date: "Mar 2019",
-  },
+  // {
+  //   id: 4,
+  //   title: "Estudiante de Ingeniería en Sistemas",
+  //   subtitle: "UTN",
+  //   description:
+  //     "Estudiante de segundo año de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (La Plata).",
+  //   date: "Mar 2019",
+  // },
   {
     id: 5,
     title: "Estudio de lenguas extranjeras: Inglés (B1)",
